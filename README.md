@@ -9,7 +9,12 @@ variety of languages and technologies.
 
 ### Categories
 
+* [React](#react)
 * [TypeScript](#typescript)
+
+### React
+
+- [Applying types to component props](react/apply-types-to-component-props.md)
 
 ### TypeScript
 
