@@ -15,6 +15,7 @@ variety of languages and technologies.
 ### React
 
 - [Applying types to component props](react/apply-types-to-component-props.md)
+- [Apply types to state in a component](react/apply-types-to-state-in-a-component.md)
 
 ### TypeScript
 
